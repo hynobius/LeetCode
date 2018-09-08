@@ -1,5 +1,7 @@
 Source: https://leetcode.com/problems/two-sum/
+
 Author: Keisuke Yamada
+
 Date: 2018-09-08
 
 ----------------------------------------
